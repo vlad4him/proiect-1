@@ -16,7 +16,7 @@
 <script type="text/javascript" src="calea catre js"></script>
 
 
-Nu pot sa dau comit la fisierele din pc-ul meu.Cum fac?
+
 
 
 
