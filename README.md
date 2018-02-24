@@ -13,12 +13,7 @@
 
 <link src="calea catre css" >
 
-<script type="text/javascript" src="calea catre js"></script>
-
-
-
-
-
+<script type="text/javascript" href="calea catre js"></script>
 
 
 
